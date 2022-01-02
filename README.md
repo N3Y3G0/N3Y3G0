@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @N3Y3G0
 - 👀 I’m interested in ...where this may lead
 - 🌱 I’m currently learning ... more.
-- 💞️ I’m looking to collaborate on ...finding the white rabbit. 
+- 💞️ I’m looking to collaborate on ..security related projects. 
 - 📫 How to reach me ...?
 
 <!---
